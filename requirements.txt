@@ -1,6 +1,6 @@
 streamlit>=1.30
 pandas>=1.5
-openai>=1.0
+openai>=0.28
 scikit-learn>=1.2
 sentence-transformers>=2.2.2
 fpdf>=1.7.2
